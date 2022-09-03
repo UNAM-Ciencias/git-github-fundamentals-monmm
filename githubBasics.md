@@ -2,7 +2,7 @@
 
 > He terminado este curso. :tada:
 
-* He creado un nuevo repositorio para el README de mi perfil,  
+* He creado un nuevo [repositorio](https://github.com/monmm/monmm) para el README de mi perfil,  
 ahora el mundo puede conocer un poco más acerca de mí.
 
 * He leído más sobre la documentación de github y  
